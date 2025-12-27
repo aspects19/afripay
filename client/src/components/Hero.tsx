@@ -20,7 +20,7 @@ const Hero = () => {
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight mb-6 animate-slide-up" style={{ animationDelay: '0.1s' }}>
-              Send Money to Africa <span className="gradient-text">Without Internet</span>
+              Send Money Across Africa <span className="gradient-text">Without Internet</span>
             </h1>
             
             <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0 animate-slide-up-delayed">
